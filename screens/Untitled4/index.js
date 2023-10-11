@@ -9,7 +9,7 @@ const Untitled4 = () => {
       padding: 10,
       position: "relative",
       flex: 1
-    }}><View style={styles.aiXLXDKx}></View></ScrollView>
+    }}><View style={styles.aiXLXDKx}></View><View style={styles.dmOlUTSt}></View></ScrollView>
     </SafeAreaView>;
 };
 
@@ -19,6 +19,13 @@ const styles = StyleSheet.create({
     backgroundColor: "#bc5e5e"
   },
   aiXLXDKx: {
+    height: 60,
+    width: 140,
+    backgroundColor: "#E4E4E4",
+    borderRadius: 0,
+    color: "#777777"
+  },
+  dmOlUTSt: {
     height: 60,
     width: 140,
     backgroundColor: "#E4E4E4",
